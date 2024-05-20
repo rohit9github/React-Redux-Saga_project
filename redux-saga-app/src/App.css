@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+.header{
+  background-color: lightgray;
+  height: 100px;
+}
+.cart-div{
+  float: right;
+  margin: 25px;
+  position: relative;
+}
+.cart-div img{
+  width: 40px;
+  margin-right: 20px;
+}
+.cart-div span{
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: red;
+  color: white;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 20px;
+  font-size: 14px;
+  font-weight: bold;
+}
