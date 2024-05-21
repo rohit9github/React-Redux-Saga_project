@@ -1,4 +1,4 @@
-import { PRODUCT_LIST } from "./Constant"
+import { PRODUCT_LIST, PRODUCT_SEARCH } from "./Constant"
 
 export const productListing = () => {
     return {
@@ -6,3 +6,9 @@ export const productListing = () => {
     }
 }
 
+export const productSearch=(query)=>{
+    return{
+        type:PRODUCT_SEARCH,
+        query
+    }
+}
