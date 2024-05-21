@@ -1,0 +1,40 @@
+{
+    "product":[
+        {
+            "id":1,
+            "name":"Apple",
+            "price":10000,
+            "category":"mobile",
+            "brand" :"iphone",
+            "quantity":10,
+            "photo" :"https://pngimg.com/d/smartphone_PNG8515.png"
+        },
+        {
+            "id":2,
+            "name":"samsung",
+            "price":10000,
+            "category":"mobile",
+            "brand" :"iphone",
+            "quantity":10,
+            "photo" :"https://pngimg.com/d/smartphone_PNG8515.png"
+        },
+        {
+            "id":3,
+            "name":"oppo",
+            "price":1500,
+            "category":"mobile",
+            "brand" :"iphone",
+            "quantity":17,
+            "photo" :"https://pngimg.com/d/smartphone_PNG8515.png"
+        },
+        {
+            "id":4,
+            "name":"vivo",
+            "price":1200,
+            "category":"mobile",
+            "brand" :"iphone",
+            "quantity":20,
+            "photo" :"https://pngimg.com/d/smartphone_PNG8515.png"
+        }
+    ]
+}
