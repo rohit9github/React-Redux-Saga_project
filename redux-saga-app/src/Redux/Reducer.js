@@ -7,8 +7,9 @@ export const cartData = (data = [], action) => {
             console.log(action);
             return [action.data, ...data]
         case REMOVE_TO_CART:
-            data.length = data.length ? data.length - 1:[]
-            return [...data]
+            // data.length = data.length ? data.length - 1:[]
+            let removeData = data.filter((v,i)=>v.id !== action.data) 
+            return [...removeData]
         case EMPTY_CART:
             data = []
             return [...data]
