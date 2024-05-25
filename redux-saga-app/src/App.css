@@ -63,13 +63,3 @@
   font-size: 14px;
   font-weight: bold;
 }
-.productContainer{
-  display: flex;
-  flex-wrap: wrap;
-}
-.product-items{
-  width: 20%;
-  border: 1px solid ;
-  padding: 10px;
-  margin: 15px;
-}

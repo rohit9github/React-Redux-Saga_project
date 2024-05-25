@@ -16,7 +16,7 @@
             "category":"mobile",
             "brand" :"iphone",
             "quantity":10,
-            "photo" :"https://pngimg.com/d/smartphone_PNG8515.png"
+            "photo" :"https://img.global.news.samsung.com/global/wp-content/uploads/2024/03/Galaxy-A55-5G-and-A35-5G_main2.jpg"
         },
         {
             "id":3,
@@ -25,7 +25,7 @@
             "category":"mobile",
             "brand" :"iphone",
             "quantity":17,
-            "photo" :"https://pngimg.com/d/smartphone_PNG8515.png"
+            "photo" :"https://image.oppo.com/content/dam/oppo/common/mkt/v2-2/reno11-f-5g-en/navigation/reno11-f-440_440-purple.png.thumb.webp"
         },
         {
             "id":4,
@@ -34,7 +34,7 @@
             "category":"mobile",
             "brand" :"iphone",
             "quantity":20,
-            "photo" :"https://pngimg.com/d/smartphone_PNG8515.png"
+            "photo" :"https://exstatic-in.vivo.com/Oz84QB3Wo0uns8j1/in/1695965611535/b0bfa258b03e0f3113ce4a071d4a68eb.png_w860-h860.webp"
         }
     ]
 }
